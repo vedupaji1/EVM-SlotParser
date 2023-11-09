@@ -1,0 +1,534 @@
+{
+  "storage":
+  [
+    {
+      "astId": 30,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "temp8_1",
+      "offset": 0,
+      "slot": "0",
+      "type": "t_uint8"
+    },
+    {
+      "astId": 33,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempAddress_1",
+      "offset": 1,
+      "slot": "0",
+      "type": "t_address"
+    },
+    {
+      "astId": 36,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "temp128_1",
+      "offset": 0,
+      "slot": "1",
+      "type": "t_uint128"
+    },
+    {
+      "astId": 39,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "temp128_2",
+      "offset": 16,
+      "slot": "1",
+      "type": "t_uint128"
+    },
+    {
+      "astId": 44,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "status_1",
+      "offset": 0,
+      "slot": "2",
+      "type": "t_enum(Status)14"
+    },
+    {
+      "astId": 47,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "temp256_1",
+      "offset": 0,
+      "slot": "3",
+      "type": "t_uint256"
+    },
+    {
+      "astId": 50,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempStr_1",
+      "offset": 0,
+      "slot": "4",
+      "type": "t_string_storage"
+    },
+    {
+      "astId": 53,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempStr_2",
+      "offset": 0,
+      "slot": "5",
+      "type": "t_string_storage"
+    },
+    {
+      "astId": 60,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempBytes1",
+      "offset": 0,
+      "slot": "6",
+      "type": "t_bytes_storage"
+    },
+    {
+      "astId": 63,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "receivedData",
+      "offset": 0,
+      "slot": "7",
+      "type": "t_uint256"
+    },
+    {
+      "astId": 66,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "proxyReceivedData",
+      "offset": 0,
+      "slot": "8",
+      "type": "t_uint256"
+    },
+    {
+      "astId": 69,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempBytes_1",
+      "offset": 0,
+      "slot": "9",
+      "type": "t_bytes_storage"
+    },
+    {
+      "astId": 72,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempBytes_2",
+      "offset": 0,
+      "slot": "10",
+      "type": "t_bytes_storage"
+    },
+    {
+      "astId": 75,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempBytes_3",
+      "offset": 0,
+      "slot": "11",
+      "type": "t_bytes_storage"
+    },
+    {
+      "astId": 85,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMessage",
+      "offset": 0,
+      "slot": "12",
+      "type": "t_struct(Message)11_storage"
+    },
+    {
+      "astId": 92,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempData",
+      "offset": 0,
+      "slot": "16",
+      "type": "t_array(t_uint256)2_storage"
+    },
+    {
+      "astId": 99,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempData_1",
+      "offset": 0,
+      "slot": "18",
+      "type": "t_array(t_string_storage)2_storage"
+    },
+    {
+      "astId": 105,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempData_2",
+      "offset": 0,
+      "slot": "20",
+      "type": "t_array(t_string_storage)dyn_storage"
+    },
+    {
+      "astId": 111,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempArr_1",
+      "offset": 0,
+      "slot": "21",
+      "type": "t_array(t_uint256)dyn_storage"
+    },
+    {
+      "astId": 118,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempArr_2",
+      "offset": 0,
+      "slot": "22",
+      "type": "t_array(t_uint128)2_storage"
+    },
+    {
+      "astId": 124,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempArr_3",
+      "offset": 0,
+      "slot": "23",
+      "type": "t_array(t_uint8)dyn_storage"
+    },
+    {
+      "astId": 129,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "mess_1",
+      "offset": 0,
+      "slot": "24",
+      "type": "t_array(t_struct(Message)11_storage)2_storage"
+    },
+    {
+      "astId": 133,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "mess_2",
+      "offset": 0,
+      "slot": "32",
+      "type": "t_array(t_struct(Message)11_storage)dyn_storage"
+    },
+    {
+      "astId": 135,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempByte_1",
+      "offset": 0,
+      "slot": "33",
+      "type": "t_bytes16"
+    },
+    {
+      "astId": 137,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempByte_2",
+      "offset": 16,
+      "slot": "33",
+      "type": "t_bytes16"
+    },
+    {
+      "astId": 141,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "temp",
+      "offset": 0,
+      "slot": "34",
+      "type": "t_mapping(t_uint256,t_uint256)"
+    },
+    {
+      "astId": 145,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "temp_1",
+      "offset": 0,
+      "slot": "35",
+      "type": "t_mapping(t_uint256,t_uint8)"
+    },
+    {
+      "astId": 150,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMess",
+      "offset": 0,
+      "slot": "36",
+      "type": "t_mapping(t_uint256,t_struct(Message)11_storage)"
+    },
+    {
+      "astId": 154,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMess_1",
+      "offset": 0,
+      "slot": "37",
+      "type": "t_mapping(t_uint256,t_bytes_storage)"
+    },
+    {
+      "astId": 160,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMess_2",
+      "offset": 0,
+      "slot": "38",
+      "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_uint256))"
+    },
+    {
+      "astId": 167,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMess_3",
+      "offset": 0,
+      "slot": "39",
+      "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_struct(Message1)23_storage))"
+    },
+    {
+      "astId": 173,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMess_4",
+      "offset": 0,
+      "slot": "40",
+      "type": "t_mapping(t_string_memory_ptr,t_mapping(t_bytes_memory_ptr,t_uint256))"
+    },
+    {
+      "astId": 177,
+      "contract": "contracts/temp.sol:RequestReceiver",
+      "label": "tempMess_5",
+      "offset": 0,
+      "slot": "41",
+      "type": "t_mapping(t_bytes_memory_ptr,t_uint256)"
+    }
+  ],
+  "types":
+  {
+    "t_address":
+    {
+      "encoding": "inplace",
+      "label": "address",
+      "numberOfBytes": "20"
+    },
+    "t_array(t_string_storage)2_storage":
+    {
+      "base": "t_string_storage",
+      "encoding": "inplace",
+      "label": "string[2]",
+      "numberOfBytes": "64"
+    },
+    "t_array(t_string_storage)dyn_storage":
+    {
+      "base": "t_string_storage",
+      "encoding": "dynamic_array",
+      "label": "string[]",
+      "numberOfBytes": "32"
+    },
+    "t_array(t_struct(Message)11_storage)2_storage":
+    {
+      "base": "t_struct(Message)11_storage",
+      "encoding": "inplace",
+      "label": "struct RequestReceiver.Message[2]",
+      "numberOfBytes": "256"
+    },
+    "t_array(t_struct(Message)11_storage)dyn_storage":
+    {
+      "base": "t_struct(Message)11_storage",
+      "encoding": "dynamic_array",
+      "label": "struct RequestReceiver.Message[]",
+      "numberOfBytes": "32"
+    },
+    "t_array(t_uint128)2_storage":
+    {
+      "base": "t_uint128",
+      "encoding": "inplace",
+      "label": "uint128[2]",
+      "numberOfBytes": "32"
+    },
+    "t_array(t_uint256)2_storage":
+    {
+      "base": "t_uint256",
+      "encoding": "inplace",
+      "label": "uint256[2]",
+      "numberOfBytes": "64"
+    },
+    "t_array(t_uint256)dyn_storage":
+    {
+      "base": "t_uint256",
+      "encoding": "dynamic_array",
+      "label": "uint256[]",
+      "numberOfBytes": "32"
+    },
+    "t_array(t_uint8)dyn_storage":
+    {
+      "base": "t_uint8",
+      "encoding": "dynamic_array",
+      "label": "uint8[]",
+      "numberOfBytes": "32"
+    },
+    "t_bytes16":
+    {
+      "encoding": "inplace",
+      "label": "bytes16",
+      "numberOfBytes": "16"
+    },
+    "t_bytes_memory_ptr":
+    {
+      "encoding": "bytes",
+      "label": "bytes",
+      "numberOfBytes": "32"
+    },
+    "t_bytes_storage":
+    {
+      "encoding": "bytes",
+      "label": "bytes",
+      "numberOfBytes": "32"
+    },
+    "t_enum(Status)14":
+    {
+      "encoding": "inplace",
+      "label": "enum RequestReceiver.Status",
+      "numberOfBytes": "1"
+    },
+    "t_mapping(t_bytes_memory_ptr,t_uint256)":
+    {
+      "encoding": "mapping",
+      "key": "t_bytes_memory_ptr",
+      "label": "mapping(bytes => uint256)",
+      "numberOfBytes": "32",
+      "value": "t_uint256"
+    },
+    "t_mapping(t_string_memory_ptr,t_mapping(t_bytes_memory_ptr,t_uint256))":
+    {
+      "encoding": "mapping",
+      "key": "t_string_memory_ptr",
+      "label": "mapping(string => mapping(bytes => uint256))",
+      "numberOfBytes": "32",
+      "value": "t_mapping(t_bytes_memory_ptr,t_uint256)"
+    },
+    "t_mapping(t_uint256,t_bytes_storage)":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => bytes)",
+      "numberOfBytes": "32",
+      "value": "t_bytes_storage"
+    },
+    "t_mapping(t_uint256,t_mapping(t_uint256,t_struct(Message1)23_storage))":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => mapping(uint256 => struct RequestReceiver.Message1))",
+      "numberOfBytes": "32",
+      "value": "t_mapping(t_uint256,t_struct(Message1)23_storage)"
+    },
+    "t_mapping(t_uint256,t_mapping(t_uint256,t_uint256))":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => mapping(uint256 => uint256))",
+      "numberOfBytes": "32",
+      "value": "t_mapping(t_uint256,t_uint256)"
+    },
+    "t_mapping(t_uint256,t_struct(Message)11_storage)":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => struct RequestReceiver.Message)",
+      "numberOfBytes": "32",
+      "value": "t_struct(Message)11_storage"
+    },
+    "t_mapping(t_uint256,t_struct(Message1)23_storage)":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => struct RequestReceiver.Message1)",
+      "numberOfBytes": "32",
+      "value": "t_struct(Message1)23_storage"
+    },
+    "t_mapping(t_uint256,t_uint256)":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => uint256)",
+      "numberOfBytes": "32",
+      "value": "t_uint256"
+    },
+    "t_mapping(t_uint256,t_uint8)":
+    {
+      "encoding": "mapping",
+      "key": "t_uint256",
+      "label": "mapping(uint256 => uint8)",
+      "numberOfBytes": "32",
+      "value": "t_uint8"
+    },
+    "t_string_memory_ptr":
+    {
+      "encoding": "bytes",
+      "label": "string",
+      "numberOfBytes": "32"
+    },
+    "t_string_storage":
+    {
+      "encoding": "bytes",
+      "label": "string",
+      "numberOfBytes": "32"
+    },
+    "t_struct(Message)11_storage":
+    {
+      "encoding": "inplace",
+      "label": "struct RequestReceiver.Message",
+      "members":
+      [
+        {
+          "astId": 3,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "id",
+          "offset": 0,
+          "slot": "0",
+          "type": "t_uint256"
+        },
+        {
+          "astId": 5,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "data",
+          "offset": 0,
+          "slot": "1",
+          "type": "t_bytes_storage"
+        },
+        {
+          "astId": 7,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "metaData",
+          "offset": 0,
+          "slot": "2",
+          "type": "t_bytes_storage"
+        },
+        {
+          "astId": 10,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "status",
+          "offset": 0,
+          "slot": "3",
+          "type": "t_enum(Status)14"
+        }
+      ],
+      "numberOfBytes": "128"
+    },
+    "t_struct(Message1)23_storage":
+    {
+      "encoding": "inplace",
+      "label": "struct RequestReceiver.Message1",
+      "members":
+      [
+        {
+          "astId": 16,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "id",
+          "offset": 0,
+          "slot": "0",
+          "type": "t_uint256"
+        },
+        {
+          "astId": 18,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "data",
+          "offset": 0,
+          "slot": "1",
+          "type": "t_bytes_storage"
+        },
+        {
+          "astId": 22,
+          "contract": "contracts/temp.sol:RequestReceiver",
+          "label": "metaData",
+          "offset": 0,
+          "slot": "2",
+          "type": "t_mapping(t_uint256,t_bytes_storage)"
+        }
+      ],
+      "numberOfBytes": "96"
+    },
+    "t_uint128":
+    {
+      "encoding": "inplace",
+      "label": "uint128",
+      "numberOfBytes": "16"
+    },
+    "t_uint256":
+    {
+      "encoding": "inplace",
+      "label": "uint256",
+      "numberOfBytes": "32"
+    },
+    "t_uint8":
+    {
+      "encoding": "inplace",
+      "label": "uint8",
+      "numberOfBytes": "1"
+    }
+  }
+}
